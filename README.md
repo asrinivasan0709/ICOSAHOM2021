@@ -1,2 +1,3 @@
 # ICOSAHOM2021
-Matlab codes for Mimetic Relaxation Runge Kutta Methods
+Matlab codes for Mimetic Relaxation Runge Kutta Methods, Anand Srinivasan, asrinivasan0709 at sdsu dot edu.
+This github page contains the Matlab codes for the Mimetic Relaxation Runge Kutta methods. An overview of the implementation of the codes can be found here [CSRC report]. This research was conducted at the Computational Science Research Center, San Diego State University under the guidance of Dr. Jose Castillo. The codes utilize the Mimetic discretization coefficients that can be found in the Mimetic Operators Library Enhanced (MOLE) library in https://github.com/jcorbino/mole . 
